@@ -6,6 +6,12 @@
 
 **Tools:** SQL, Python, Power BI
 
+## Charts
+
+![Funnel](funnel.png)
+![KYC by segment](kyc_by_segment.png)
+![First transaction by age](txn_by_age.png)
+
 
 ## Key findings
 
